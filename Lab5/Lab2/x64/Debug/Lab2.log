@@ -1,0 +1,4 @@
+﻿  FindMaxElementInOnlyNotPositiveColumns.cpp
+FindMaxElementInOnlyNotPositiveColumns.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl FindElementInOnlyNotPositiveColumn(int * *,int)" (?FindElementInOnlyNotPositiveColumn@@YAHPEAPEAHH@Z) в функции "int __cdecl FindMaxElementInOnlyNotPositiveColumns(int * *,int)" (?FindMaxElementInOnlyNotPositiveColumns@@YAHPEAPEAHH@Z).
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl InputOrderOfMatrix(int &)" (?InputOrderOfMatrix@@YAXAEAH@Z) в функции main.
+E:\Labs\Lab5\x64\Debug\Lab2.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
